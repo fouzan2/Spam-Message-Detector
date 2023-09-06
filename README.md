@@ -3,7 +3,10 @@
 
  To Deploy a model using Python, HTML and CSS we need 4 files, namely:
 
-App.py: The driver code, which will consist of the code to train a machine learning model and creating a flask API.
-home.html: which will be a landing page where we will deploy our model.
-style.css: which will be used to design our landing page
-result.html: which will show us the result whether the message is spam or not.
+1: App.py: The driver code, which will consist of the code to train a machine learning model and creating a flask API.
+
+2: home.html: which will be a landing page where we will deploy our model.
+
+3: style.css: which will be used to design our landing page
+
+4: result.html: which will show us the result whether the message is spam or not.
